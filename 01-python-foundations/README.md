@@ -1,6 +1,7 @@
 # Phase 1: Python Foundations
 
 Following CS50P (Harvard's free Python course on YouTube).
+YouTube Link: https://www.youtube.com/watch?v=nLRL_NcnK-4
 
 ## Progress
 - [ ] Lecture 0 — Functions, Variables
