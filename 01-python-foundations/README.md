@@ -3,7 +3,7 @@
 Following CS50P (Harvard's free Python course on YouTube).
 
 ## Progress
-- [ ] Lecture 0 — Functions, Variables
+- [x] Lecture 0 — Functions, Variables
 - [ ] Lecture 1 — Loops
 - [ ] Lecture 2 — Exceptions
 - [ ] Lecture 3 — Libraries
