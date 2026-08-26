@@ -15,3 +15,15 @@ if we write end="" empty there for it wont go to the new line instead it will ke
 3. fomat string or f string 
 such as: print(f"this is a fomat string {variables}")
 we use {} do determine the variable when use f string 
+4. .strip() 
+remove whitespace from string input 
+ex: name = name.strip()
+
+5. .split(center of split point)
+use to split the variable from the split point 
+such as: name =Patrick LE 
+name.split() output are 2 varible first haft and second haft seperated by empty space () 
+
+##integer
+int 
++ - * / % 
