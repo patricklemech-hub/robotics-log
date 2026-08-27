@@ -10,8 +10,10 @@ def value():
 def multiply(a,b):
     a*b
     return a*b
+#Assigned the output of function to variable for calculation function
+x,y =value()   # function value output 2 varibles but it hasnt assigned to any. Therefore, we need to assign it to something 
 
-x,y =value()
-answer= multiply(x,y)
+#use assigned variables as input into the calculation function 
+answer= multiply(x,y) # use asigned variable to input into the calculation function 
 print("The multiplier of 2 input values is ",answer)
 
