@@ -37,3 +37,12 @@ return sends a value back from a function so you can use it somewhere else in yo
 print()vs return ,
 print() is send out hte result 
 return is use the result for next step 
+
+6. Conditional 
+comparation
+>, <, <= , >=, == : equal, != 
+
+7. Modulo operator 
+giving remainder after devided 
+2 / 2 = 1.0 , 0 is the remainder 
+% purpose is the sort out the remainder 
