@@ -27,3 +27,13 @@ name.split() output are 2 varible first haft and second haft seperated by empty 
 ##integer
 int 
 + - * / % 
+
+##float 
+float number with decimal number 
+4.2 4.5 etc..
+
+##return in the function structure
+return sends a value back from a function so you can use it somewhere else in your program.
+print()vs return ,
+print() is send out hte result 
+return is use the result for next step 

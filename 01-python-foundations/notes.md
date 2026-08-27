@@ -15,3 +15,19 @@ So we can execute multiple built in function by execute it in the series
 execute the code immediately in the Terminal 
 by call out only: python
 it will show ( >>> ) indicate the interactive mode is activated 
+
+4. Net function
+Net function is the techinique that group all the function in one order code that after it finished the 1st function order, it will move to next one in the series 
+ex: x = int(input("this is the net function"))
+Warning: dont over use it since it could complicate things 
+
+5. When execute the function make sure you asign it with something before use. All function need to be asigned 
+ex: z = round(float(z), 2)
+we round z value to the second sicfig then asigned it with the z value 
+
+6. Return at the end of function>>
+The purpose of ( return ) in the def function is acting as a command report back the work done by that function rather than nothing, without return it look like doing work but that person doesn't report back anything achieved from that work 
+
+return also have 2 way of uses 
+a. return followed by value -> meaning function report back that value 
+b. return is standalone return -> meaning that function end immediately after condition met, usually standalone return is put in the 2nd order condition function 
