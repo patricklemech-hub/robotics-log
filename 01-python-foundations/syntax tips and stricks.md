@@ -46,3 +46,5 @@ comparation
 giving remainder after devided 
 2 / 2 = 1.0 , 0 is the remainder 
 % purpose is the sort out the remainder 
+
+8. Match or (switch) 
