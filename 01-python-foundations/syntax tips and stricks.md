@@ -48,3 +48,9 @@ giving remainder after devided
 % purpose is the sort out the remainder 
 
 8. Match or (switch) 
+Match input :
+    case "input match": 
+        condition
+
+9. Bitwise for Match case 
+"|" in case fucntion of Match we can't use or since it doesnt work out. 
