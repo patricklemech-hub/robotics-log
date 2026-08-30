@@ -54,3 +54,13 @@ Match input :
 
 9. Bitwise for Match case 
 "|" in case fucntion of Match we can't use or since it doesnt work out. 
+
+10. While and for 
+while loop is use for infinity condition
+for loop is use for condition 
+
+11. list in python
+"in" " [a,c,b,c] " 
+
+12. funtion range(number of range):
+use for range 
