@@ -31,3 +31,12 @@ The purpose of ( return ) in the def function is acting as a command report back
 return also have 2 way of uses 
 a. return followed by value -> meaning function report back that value 
 b. return is standalone return -> meaning that function end immediately after condition met, usually standalone return is put in the 2nd order condition function 
+
+7. # import syntax 
+meaning that we can import the library or module into our code to use the built in function in that library or module.
+
+8. # random library
+random library is a built in library that we can use to generate random number or random value from
+
+9. # statistics library
+statistics library is a built in library that we can use to calculate the mean, median, mode
