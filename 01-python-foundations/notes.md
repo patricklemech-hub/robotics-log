@@ -40,3 +40,20 @@ random library is a built in library that we can use to generate random number o
 
 9. # statistics library
 statistics library is a built in library that we can use to calculate the mean, median, mode
+
+10. # sys 
+is a built in library that we can use to access the system specific parameters and functions. It provides functionalities for interacting with the Python interpreter and the underlying operating system. The sys module allows you to manipulate the Python runtime environment, handle command-line arguments, manage input/output streams, and perform various system-level operations.
+
+11. # package 
+A package is a collection of modules that are organized in a directory hierarchy. It allows you to group related modules together, making it easier to manage and distribute your code. Packages can contain sub-packages, which are nested packages within the main package. Each package typically has an __init__.py file that serves as an initializer for the package and can contain package-level variables or functions.
+ # you can look up the package in the python documentation to see what built in function it has and how to use it. by going to "pypi.org" and search for the package you want to use.
+
+12. # api 
+is a set of rules and protocols that allows different software applications to communicate and interact with each other. It defines the methods and data formats that applications can use to request and exchange information. APIs enable developers to access specific functionalities or data from external services, libraries, or platforms without needing to understand the underlying implementation details. They provide a standardized way for applications to interact, making it easier to integrate different systems and build upon existing software components.
+
+13. # JSON (JavaScript Object Notation)
+A universal, text-based format used by APIs to send data over the internet.
+- It looks and behaves almost identical to Python dictionaries `{key: value}` and lists `[]`.
+- `import json` is a built-in library in Python.
+- `json.dumps(data, indent=2)`: Formats and pretty-prints JSON data.
+- `json.loads(text)`: Converts JSON text into a Python dictionary.
