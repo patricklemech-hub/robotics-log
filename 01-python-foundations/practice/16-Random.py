@@ -1,0 +1,2 @@
+#random library is used to generate random numbers, select random items from a list, and perform other random operations. It is commonly used in games, simulations, and other applications where randomness is desired.
+import random 

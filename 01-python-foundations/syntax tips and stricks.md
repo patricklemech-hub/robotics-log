@@ -42,25 +42,45 @@ return is use the result for next step
 comparation
 >, <, <= , >=, == : equal, != 
 
-7. Modulo operator 
+7. # Modulo operator 
 giving remainder after devided 
 2 / 2 = 1.0 , 0 is the remainder 
 % purpose is the sort out the remainder 
 
-8. Match or (switch) 
+8. # Match or (switch) 
 Match input :
     case "input match": 
         condition
 
-9. Bitwise for Match case 
+9. # Bitwise for Match case 
 "|" in case fucntion of Match we can't use or since it doesnt work out. 
 
-10. While and for 
+10. # While and for 
 while loop is use for infinity condition
 for loop is use for condition 
 
-11. list in python
+11. # list in python
 "in" " [a,c,b,c] " 
 
-12. funtion range(number of range):
+12. # funtion range(number of range):
 use for range 
+
+13. # Exception Handling: Used to catch errors and prevent program crashes.
+Rule: A 'try' block must always be paired with an 'except' (or 'finally').
+try: Code that might fail | except: Runs if an error happens | else: Runs if no error | finally: Always runs.
+
+14. # pass statement
+`pass` is a placeholder that does nothing. It is used when Python requires code (like in an `if`, `loop`, `function`, or `except`), but you want to ignore it or write it later without causing a syntax error.
+
+15. # raise statement
+`raise` is used to manually trigger (throw) an error when a specific condition occurs.
+Example: 
+if age < 0:
+    raise ValueError("Age cannot be negative")
+
+16. # random module
+Use `import random` to generate random numbers or pick random items.
+- `random.choice(list)`: Picks one random item from a list.
+- `random.randint(a, b)`: Returns a random integer between a and b (inclusive).
+- `random.shuffle(list)`: Mixes/shuffles a list in place.
+- `random.random()`: Returns a random float between 0.0 and 1.0.

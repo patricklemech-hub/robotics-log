@@ -11,3 +11,7 @@ The reason I want to become an engineer isn't just about building a better life 
 ### End of the intro
 
 If you are reading this log, you are witnessing the life of one person who has the will and eagerness to achieve the goal of becoming a good engineer. Thank you, and see you out there.
+
+# Import synxtax 
+is used for importing libraries and modules into your Python code. It allows you to access pre-existing functions, classes, and variables from external sources, enabling you to leverage their functionality without having to write everything from scratch
+
