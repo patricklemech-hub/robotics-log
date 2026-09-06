@@ -84,3 +84,16 @@ Use `import random` to generate random numbers or pick random items.
 - `random.randint(a, b)`: Returns a random integer between a and b (inclusive).
 - `random.shuffle(list)`: Mixes/shuffles a list in place.
 - `random.random()`: Returns a random float between 0.0 and 1.0.
+
+17. # assert statement
+`assert` tests if a condition is `True`. 
+- If `True`: Python does nothing and continues quietly.
+- If `False`: Python raises an `AssertionError` and stops the program.
+- Commonly used in unit tests and `pytest`.
+
+Syntax:
+assert condition, "optional error message"
+
+Example:
+assert square(2) == 4
+assert square(3) == 9, "3 squared should be 9"
